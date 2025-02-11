@@ -1,0 +1,131 @@
+{
+  "keyMetrics": {
+    "totalUsers": 500000,
+    "activeUsers": 350000,
+    "totalStreams": 120000000,
+    "revenue": 1500000,
+    "topArtist": "Liam Nova"
+  },
+  "userGrowthChart": [
+    {
+      "month": "Jan 2024",
+      "totalUsers": 450000,
+      "activeUsers": 320000
+    },
+    {
+      "month": "Feb 2024",
+      "totalUsers": 460000,
+      "activeUsers": 325000
+    },
+    {
+      "month": "Mar 2024",
+      "totalUsers": 470000,
+      "activeUsers": 330000
+    },
+    {
+      "month": "Apr 2024",
+      "totalUsers": 480000,
+      "activeUsers": 340000
+    },
+    {
+      "month": "May 2024",
+      "totalUsers": 490000,
+      "activeUsers": 345000
+    },
+    {
+      "month": "Jun 2024",
+      "totalUsers": 500000,
+      "activeUsers": 350000
+    },
+    {
+      "month": "Jul 2024",
+      "totalUsers": 510000,
+      "activeUsers": 355000
+    },
+    {
+      "month": "Aug 2024",
+      "totalUsers": 520000,
+      "activeUsers": 360000
+    },
+    {
+      "month": "Sep 2024",
+      "totalUsers": 530000,
+      "activeUsers": 370000
+    },
+    {
+      "month": "Oct 2024",
+      "totalUsers": 540000,
+      "activeUsers": 380000
+    },
+    {
+      "month": "Nov 2024",
+      "totalUsers": 550000,
+      "activeUsers": 385000
+    },
+    {
+      "month": "Dec 2024",
+      "totalUsers": 560000,
+      "activeUsers": 390000
+    }
+  ],
+  "revenueDistribution": [{ "subscriptions": 1000000, "ads": 500000 }],
+  "topStreamedSongs": [
+    {
+      "songName": "Dreams Unfold",
+      "streams": 5000000
+    },
+    {
+      "songName": "Echoes of Tomorrow",
+      "streams": 4500000
+    },
+    {
+      "songName": "Waves of the Sky",
+      "streams": 4000000
+    },
+    {
+      "songName": "City Lights",
+      "streams": 3500000
+    },
+    {
+      "songName": "Invisible Roads",
+      "streams": 3000000
+    }
+  ],
+  "recentStreams": [
+    {
+      "songName": "Dreams Unfold",
+      "artist": "Liam Nova",
+      "dateStreamed": "2025-02-10",
+      "streamCount": 500,
+      "userId": 101
+    },
+    {
+      "songName": "Echoes of Tomorrow",
+      "artist": "Isabella Grey",
+      "dateStreamed": "2025-02-09",
+      "streamCount": 300,
+      "userId": 102
+    },
+    {
+      "songName": "Waves of the Sky",
+      "artist": "Oliver Cruz",
+      "dateStreamed": "2025-02-08",
+      "streamCount": 450,
+      "userId": 103
+    },
+    {
+      "songName": "Dreams Unfold",
+      "artist": "Liam Nova",
+      "dateStreamed": "2025-02-07",
+      "streamCount": 600,
+      "userId": 104
+    },
+    {
+      "songName": "City Lights",
+      "artist": "Amelia Ray",
+      "dateStreamed": "2025-02-06",
+      "streamCount": 700,
+      "userId": 105
+    }
+  ]
+}
